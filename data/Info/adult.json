@@ -1,0 +1,24 @@
+{
+    "name": "adult",
+    "target_name": "class",
+    "num_col_name": [
+        "age",
+        "fnlwgt",
+        "education-num",
+        "capital-gain",
+        "capital-loss",
+        "hours-per-week"
+    ],
+    "cat_col_name": [
+        "workclass",
+        "education",
+        "marital-status",
+        "occupation",
+        "relationship",
+        "race",
+        "sex",
+        "native-country"
+    ],
+    "data_path": "data/adult/adult.csv",
+    "test_path": "data/adult/adult_test.csv"
+    }
